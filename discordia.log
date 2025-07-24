@@ -1,0 +1,1309 @@
+2025-07-06 06:20:33 | [INFO]    | Discordia 2.8.4
+2025-07-06 06:20:33 | [INFO]    | Connecting to Discord...
+2025-07-06 06:20:34 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-06 06:20:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-06 06:20:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-06 06:20:36 | [INFO]    | Shard 0 : Received HELLO
+2025-07-06 06:20:37 | [INFO]    | Shard 0 : Received READY
+2025-07-06 06:35:37 | [INFO]    | Discordia 2.8.4
+2025-07-06 06:35:37 | [INFO]    | Connecting to Discord...
+2025-07-06 06:35:38 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-06 06:35:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-06 06:35:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-06 06:35:39 | [INFO]    | Shard 0 : Received HELLO
+2025-07-06 06:35:40 | [INFO]    | Shard 0 : Received READY
+2025-07-06 06:35:46 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/1332616383262887937/messages/1391200917805596774/reactions/nil/@me
+2025-07-11 11:30:54 | [INFO]    | Discordia 2.8.4
+2025-07-11 11:30:54 | [INFO]    | Connecting to Discord...
+2025-07-11 11:30:55 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-11 11:30:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-11 11:30:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-11 11:30:56 | [INFO]    | Shard 0 : Received HELLO
+2025-07-11 11:30:57 | [INFO]    | Shard 0 : Received READY
+2025-07-12 10:47:00 | [INFO]    | Discordia 2.8.4
+2025-07-12 10:47:00 | [INFO]    | Connecting to Discord...
+2025-07-12 10:47:01 | [INFO]    | Authenticated as Bump Reminder#6724
+2025-07-12 10:47:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 10:47:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 10:47:03 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 10:47:04 | [INFO]    | Shard 0 : Received READY
+2025-07-12 10:50:00 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 10:50:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 10:52:57 | [INFO]    | Discordia 2.8.4
+2025-07-12 10:52:57 | [INFO]    | Connecting to Discord...
+2025-07-12 10:52:58 | [INFO]    | Authenticated as Bump Reminder#6724
+2025-07-12 10:52:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 10:52:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 10:52:59 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 10:52:59 | [INFO]    | Shard 0 : Received READY
+2025-07-12 11:04:41 | [INFO]    | Discordia 2.8.4
+2025-07-12 11:04:41 | [INFO]    | Connecting to Discord...
+2025-07-12 11:04:42 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 11:04:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 11:04:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 11:04:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 11:04:43 | [INFO]    | Shard 0 : Received READY
+2025-07-12 11:25:46 | [INFO]    | Shard 0 : Disconnected
+2025-07-12 11:25:46 | [INFO]    | Shard 0 : Reconnecting after 1057 ms...
+2025-07-12 11:25:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 11:25:48 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 11:25:48 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-12 11:25:52 | [INFO]    | Shard 0 : Received READY
+2025-07-12 11:36:51 | [INFO]    | Discordia 2.8.4
+2025-07-12 11:36:51 | [INFO]    | Connecting to Discord...
+2025-07-12 11:36:53 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 11:36:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 11:36:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 11:36:55 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 11:36:55 | [INFO]    | Shard 0 : Received READY
+2025-07-12 11:42:06 | [INFO]    | Discordia 2.8.4
+2025-07-12 11:42:06 | [INFO]    | Connecting to Discord...
+2025-07-12 11:42:07 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 11:42:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 11:42:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 11:42:08 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 11:42:09 | [INFO]    | Shard 0 : Received READY
+2025-07-12 12:53:22 | [INFO]    | Shard 0 : Disconnected
+2025-07-12 12:53:22 | [INFO]    | Shard 0 : Reconnecting after 1054 ms...
+2025-07-12 12:53:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 12:53:24 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 12:53:24 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-12 12:53:28 | [INFO]    | Shard 0 : Received READY
+2025-07-12 13:10:10 | [INFO]    | Discordia 2.8.4
+2025-07-12 13:10:10 | [INFO]    | Connecting to Discord...
+2025-07-12 13:10:10 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 13:10:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 13:10:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 13:10:12 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 13:10:12 | [INFO]    | Shard 0 : Received READY
+2025-07-12 13:14:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 13:19:13 | [INFO]    | Discordia 2.8.4
+2025-07-12 13:19:13 | [INFO]    | Connecting to Discord...
+2025-07-12 13:19:14 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 13:19:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 13:19:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 13:19:14 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 13:19:15 | [INFO]    | Shard 0 : Received READY
+2025-07-12 13:23:41 | [INFO]    | Shard 0 : Disconnected
+2025-07-12 13:23:41 | [INFO]    | Shard 0 : Reconnecting after 961 ms...
+2025-07-12 13:23:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 13:23:42 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 13:23:43 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-12 13:31:30 | [INFO]    | Discordia 2.8.4
+2025-07-12 13:31:30 | [INFO]    | Connecting to Discord...
+2025-07-12 13:31:31 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2025-07-12 13:31:31 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2025-07-12 13:31:58 | [INFO]    | Discordia 2.8.4
+2025-07-12 13:31:58 | [INFO]    | Connecting to Discord...
+2025-07-12 13:31:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2025-07-12 13:31:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2025-07-12 13:32:15 | [INFO]    | Discordia 2.8.4
+2025-07-12 13:32:15 | [INFO]    | Connecting to Discord...
+2025-07-12 13:32:16 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 13:32:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 13:32:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 13:32:16 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 13:32:17 | [INFO]    | Shard 0 : Received READY
+2025-07-12 13:33:49 | [INFO]    | Discordia 2.8.4
+2025-07-12 13:33:49 | [INFO]    | Connecting to Discord...
+2025-07-12 13:33:50 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 13:33:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 13:33:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 13:33:50 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 13:33:51 | [INFO]    | Shard 0 : Received READY
+2025-07-12 13:57:05 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 13:58:12 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:09:38 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:10:24 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:10:43 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:11:35 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:11:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:11:47 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 14:11:56 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 15:04:46 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:04:46 | [INFO]    | Connecting to Discord...
+2025-07-12 15:04:47 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:04:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:04:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:04:49 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:04:50 | [INFO]    | Shard 0 : Received READY
+2025-07-12 15:07:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 15:13:39 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:13:39 | [INFO]    | Connecting to Discord...
+2025-07-12 15:13:41 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:13:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:13:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:13:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:13:43 | [INFO]    | Shard 0 : Received READY
+2025-07-12 15:17:21 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:17:21 | [INFO]    | Connecting to Discord...
+2025-07-12 15:17:22 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:17:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:17:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:17:23 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:17:23 | [INFO]    | Shard 0 : Received READY
+2025-07-12 15:46:30 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:46:30 | [INFO]    | Connecting to Discord...
+2025-07-12 15:46:31 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:46:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:46:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:46:33 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:46:33 | [INFO]    | Shard 0 : Received READY
+2025-07-12 15:51:16 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:51:16 | [INFO]    | Connecting to Discord...
+2025-07-12 15:51:17 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:51:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:51:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:51:17 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:51:18 | [INFO]    | Shard 0 : Received READY
+2025-07-12 15:54:32 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:54:32 | [INFO]    | Connecting to Discord...
+2025-07-12 15:54:32 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:54:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:54:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:54:34 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:54:34 | [INFO]    | Shard 0 : Received READY
+2025-07-12 15:56:33 | [INFO]    | Discordia 2.8.4
+2025-07-12 15:56:33 | [INFO]    | Connecting to Discord...
+2025-07-12 15:56:34 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 15:56:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 15:56:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 15:56:35 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 15:56:35 | [INFO]    | Shard 0 : Received READY
+2025-07-12 16:09:23 | [INFO]    | Discordia 2.8.4
+2025-07-12 16:09:23 | [INFO]    | Connecting to Discord...
+2025-07-12 16:09:25 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 16:09:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 16:09:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 16:09:27 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 16:09:28 | [INFO]    | Shard 0 : Received READY
+2025-07-12 16:14:00 | [INFO]    | Discordia 2.8.4
+2025-07-12 16:14:00 | [INFO]    | Connecting to Discord...
+2025-07-12 16:14:01 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 16:14:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 16:14:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 16:14:03 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 16:14:03 | [INFO]    | Shard 0 : Received READY
+2025-07-12 16:18:52 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 16:20:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-12 16:20:08 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 16:20:10 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 16:25:55 | [INFO]    | Discordia 2.8.4
+2025-07-12 16:25:55 | [INFO]    | Connecting to Discord...
+2025-07-12 16:25:57 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 16:25:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 16:25:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 16:25:58 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 16:25:58 | [INFO]    | Shard 0 : Received READY
+2025-07-12 16:27:32 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 16:27:44 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 16:27:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-12 16:30:35 | [INFO]    | Discordia 2.8.4
+2025-07-12 16:30:35 | [INFO]    | Connecting to Discord...
+2025-07-12 16:30:36 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 16:30:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 16:30:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 16:30:38 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 16:30:38 | [INFO]    | Shard 0 : Received READY
+2025-07-12 18:27:15 | [INFO]    | Shard 0 : Disconnected
+2025-07-12 18:27:15 | [INFO]    | Shard 0 : Reconnecting after 1050 ms...
+2025-07-12 18:27:17 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-12 18:27:17 | [INFO]    | Shard 0 : Reconnecting after 1931 ms...
+2025-07-12 18:27:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 18:27:20 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 18:27:21 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-12 18:27:23 | [INFO]    | Shard 0 : Received READY
+2025-07-12 18:34:07 | [INFO]    | Discordia 2.8.4
+2025-07-12 18:34:07 | [INFO]    | Connecting to Discord...
+2025-07-12 18:34:10 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 18:34:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 18:34:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 18:34:11 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 18:34:11 | [INFO]    | Shard 0 : Received READY
+2025-07-12 19:18:40 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-12 19:18:40 | [INFO]    | Shard 0 : Disconnected
+2025-07-12 19:18:40 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-12 19:18:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:18:40 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:18:41 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-12 19:23:48 | [INFO]    | Discordia 2.8.4
+2025-07-12 19:23:48 | [INFO]    | Connecting to Discord...
+2025-07-12 19:23:48 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 19:23:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 19:23:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:23:49 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:23:49 | [INFO]    | Shard 0 : Received READY
+2025-07-12 19:26:46 | [INFO]    | Discordia 2.8.4
+2025-07-12 19:26:46 | [INFO]    | Connecting to Discord...
+2025-07-12 19:26:46 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 19:26:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 19:26:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:26:46 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:26:47 | [INFO]    | Shard 0 : Received READY
+2025-07-12 19:28:07 | [INFO]    | Discordia 2.8.4
+2025-07-12 19:28:07 | [INFO]    | Connecting to Discord...
+2025-07-12 19:28:07 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 19:28:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 19:28:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:28:08 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:28:08 | [INFO]    | Shard 0 : Received READY
+2025-07-12 19:34:31 | [INFO]    | Discordia 2.8.4
+2025-07-12 19:34:31 | [INFO]    | Connecting to Discord...
+2025-07-12 19:34:31 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 19:34:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 19:34:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:34:32 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:34:33 | [INFO]    | Shard 0 : Received READY
+2025-07-12 19:51:58 | [INFO]    | Discordia 2.8.4
+2025-07-12 19:51:58 | [INFO]    | Connecting to Discord...
+2025-07-12 19:51:59 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 19:51:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 19:51:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:51:59 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:52:00 | [INFO]    | Shard 0 : Received READY
+2025-07-12 19:53:48 | [INFO]    | Discordia 2.8.4
+2025-07-12 19:53:48 | [INFO]    | Connecting to Discord...
+2025-07-12 19:53:48 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-12 19:53:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-12 19:53:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-12 19:53:48 | [INFO]    | Shard 0 : Received HELLO
+2025-07-12 19:53:49 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:07:52 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:07:52 | [INFO]    | Connecting to Discord...
+2025-07-13 12:07:53 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 12:07:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:07:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:07:54 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:07:54 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:09:11 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:09:11 | [INFO]    | Connecting to Discord...
+2025-07-13 12:09:11 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 12:09:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:09:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:09:12 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:09:12 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:12:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 12:12:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 12:15:44 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:15:44 | [INFO]    | Connecting to Discord...
+2025-07-13 12:15:45 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 12:15:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:15:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:15:46 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:15:46 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:20:40 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:20:40 | [INFO]    | Connecting to Discord...
+2025-07-13 12:20:41 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 12:20:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:20:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:20:41 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:20:42 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:26:00 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:26:00 | [INFO]    | Connecting to Discord...
+2025-07-13 12:26:01 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 12:26:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:26:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:26:02 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:26:02 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:27:59 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:27:59 | [INFO]    | Connecting to Discord...
+2025-07-13 12:27:59 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 12:27:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:28:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:28:00 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:28:00 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:28:28 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:28:28 | [INFO]    | Connecting to Discord...
+2025-07-13 12:28:29 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 12:28:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:28:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:28:29 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:28:29 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:28:46 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:28:46 | [INFO]    | Connecting to Discord...
+2025-07-13 12:28:46 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 12:28:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:28:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:28:47 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:28:47 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:29:48 | [INFO]    | Discordia 2.8.4
+2025-07-13 12:29:48 | [INFO]    | Connecting to Discord...
+2025-07-13 12:29:50 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 12:29:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 12:29:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:29:51 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:29:51 | [INFO]    | Shard 0 : Received READY
+2025-07-13 12:40:09 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 12:40:09 | [INFO]    | Shard 0 : Reconnecting after 1086 ms...
+2025-07-13 12:40:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:40:12 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:40:28 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-13 12:49:44 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-13 12:49:44 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 12:49:44 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-13 12:49:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 12:49:45 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 12:49:45 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-13 12:53:20 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 12:55:53 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 12:56:16 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_DELETE
+2025-07-13 12:57:43 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_DELETE
+2025-07-13 12:57:43 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_DELETE
+2025-07-13 12:58:07 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 12:58:19 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 12:58:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 12:58:52 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 12:59:16 | [WARNING] | Uncached Role (1393833793936293922) on GUILD_ROLE_DELETE
+2025-07-13 12:59:16 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_DELETE
+2025-07-13 13:02:07 | [INFO]    | Discordia 2.8.4
+2025-07-13 13:02:07 | [INFO]    | Connecting to Discord...
+2025-07-13 13:02:08 | [INFO]    | Authenticated as BazBump Beta Features#6724
+2025-07-13 13:02:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 13:02:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 13:02:08 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 13:02:09 | [INFO]    | Shard 0 : Received READY
+2025-07-13 13:02:19 | [INFO]    | Discordia 2.8.4
+2025-07-13 13:02:19 | [INFO]    | Connecting to Discord...
+2025-07-13 13:02:20 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 13:02:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 13:02:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 13:02:21 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 13:02:21 | [INFO]    | Shard 0 : Received READY
+2025-07-13 13:04:53 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 13:04:53 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 13:05:46 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 13:05:46 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 13:05:51 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 13:05:51 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 13:26:18 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 13:26:18 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 13:26:18 | [INFO]    | Shard 0 : Reconnecting after 1095 ms...
+2025-07-13 13:26:18 | [INFO]    | Shard 0 : Reconnecting after 910 ms...
+2025-07-13 13:26:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 13:26:19 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 13:26:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 13:26:19 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 13:26:20 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-13 13:26:20 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-13 13:26:21 | [INFO]    | Shard 0 : Received READY
+2025-07-13 13:26:22 | [INFO]    | Shard 0 : Received READY
+2025-07-13 13:28:23 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_DELETE
+2025-07-13 14:03:02 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:03:02 | [INFO]    | Connecting to Discord...
+2025-07-13 14:03:02 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 14:03:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:03:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:03:03 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:03:04 | [INFO]    | Shard 0 : Received READY
+2025-07-13 14:19:49 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:19:49 | [INFO]    | Connecting to Discord...
+2025-07-13 14:19:50 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 14:19:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:19:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:19:51 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:19:51 | [INFO]    | Shard 0 : Received READY
+2025-07-13 14:21:53 | [WARNING] | 429 - Too Many Requests : retrying after 0 ms : PUT https://discord.com/api/v7/channels/1325758867287834705/messages/1393854933044035656/reactions/%E2%9C%85/@me
+2025-07-13 14:21:53 | [WARNING] | 429 - Too Many Requests : retrying after 0 ms : PUT https://discord.com/api/v7/channels/1325758867287834705/messages/1393854933048234097/reactions/%E2%9D%8C/@me
+2025-07-13 14:21:54 | [WARNING] | 429 - Too Many Requests : retrying after 0 ms : PUT https://discord.com/api/v7/channels/1325758867287834705/messages/1393854933044035656/reactions/%E2%9D%8C/@me
+2025-07-13 14:25:34 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 14:25:34 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 14:27:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 14:27:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 14:28:50 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:28:50 | [INFO]    | Connecting to Discord...
+2025-07-13 14:29:06 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 14:29:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:29:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:29:06 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:29:07 | [INFO]    | Shard 0 : Received READY
+2025-07-13 14:30:20 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 14:46:00 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2025-07-13 14:46:00 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 14:49:21 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 14:53:39 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:53:39 | [INFO]    | Connecting to Discord...
+2025-07-13 14:53:40 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 14:53:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:53:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:53:41 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:53:42 | [INFO]    | Shard 0 : Received READY
+2025-07-13 14:55:50 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:55:50 | [INFO]    | Connecting to Discord...
+2025-07-13 14:55:51 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 14:55:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:55:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:55:51 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:55:52 | [INFO]    | Shard 0 : Received READY
+2025-07-13 14:57:25 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:57:25 | [INFO]    | Connecting to Discord...
+2025-07-13 14:57:25 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 14:57:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:57:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:57:26 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:57:26 | [INFO]    | Shard 0 : Received READY
+2025-07-13 14:58:52 | [INFO]    | Discordia 2.8.4
+2025-07-13 14:58:52 | [INFO]    | Connecting to Discord...
+2025-07-13 14:58:53 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 14:58:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 14:58:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 14:58:53 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 14:58:54 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:05:32 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:05:32 | [INFO]    | Connecting to Discord...
+2025-07-13 15:05:33 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:05:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:05:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:05:33 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:05:34 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:09:42 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:09:42 | [INFO]    | Connecting to Discord...
+2025-07-13 15:09:43 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:09:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:09:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:09:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:09:44 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:14:07 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:14:07 | [INFO]    | Connecting to Discord...
+2025-07-13 15:14:07 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:14:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:14:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:14:08 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:14:08 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:15:26 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-13 15:17:57 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:17:57 | [INFO]    | Connecting to Discord...
+2025-07-13 15:17:58 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:17:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:17:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:17:58 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:18:00 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:20:14 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:20:14 | [INFO]    | Connecting to Discord...
+2025-07-13 15:20:15 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 15:20:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:20:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:20:16 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:20:17 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:21:48 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:21:48 | [INFO]    | Connecting to Discord...
+2025-07-13 15:21:49 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 15:21:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:21:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:21:49 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:21:50 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:28:54 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:28:54 | [INFO]    | Connecting to Discord...
+2025-07-13 15:28:55 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 15:28:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:28:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:28:55 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:28:56 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:29:15 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:29:15 | [INFO]    | Connecting to Discord...
+2025-07-13 15:29:15 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:29:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:29:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:29:16 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:29:16 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:34:44 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:34:44 | [INFO]    | Connecting to Discord...
+2025-07-13 15:34:45 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:34:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:34:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:34:46 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:34:46 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:34:54 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:34:54 | [INFO]    | Connecting to Discord...
+2025-07-13 15:34:54 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 15:34:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:34:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:34:55 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:34:56 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:37:54 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:37:54 | [INFO]    | Connecting to Discord...
+2025-07-13 15:37:55 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 15:37:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:37:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:37:55 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:37:56 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:38:11 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:38:11 | [INFO]    | Connecting to Discord...
+2025-07-13 15:38:11 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:38:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:38:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:38:12 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:38:13 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:44:42 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 15:44:42 | [INFO]    | Shard 0 : Reconnecting after 971 ms...
+2025-07-13 15:44:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:44:47 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:44:47 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-13 15:53:32 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-13 15:54:58 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 15:54:58 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 15:54:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 15:54:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 15:59:11 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:59:11 | [INFO]    | Connecting to Discord...
+2025-07-13 15:59:12 | [INFO]    | Authenticated as BazBump#3406
+2025-07-13 15:59:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:59:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:59:12 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:59:13 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:59:22 | [INFO]    | Discordia 2.8.4
+2025-07-13 15:59:22 | [INFO]    | Connecting to Discord...
+2025-07-13 15:59:23 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 15:59:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 15:59:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 15:59:24 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 15:59:25 | [INFO]    | Shard 0 : Received READY
+2025-07-13 15:59:31 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 15:59:31 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:00:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:00:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:04:11 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-13 16:17:15 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:17:21 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:18:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:18:57 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:18:57 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:25:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:26:09 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:22 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 16:27:23 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:24 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:24 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:24 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:25 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:27 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:28 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:30 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:33 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:33 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:34 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:35 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:36 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:37 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:27:38 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:31:07 | [INFO]    | Discordia 2.8.4
+2025-07-13 16:31:07 | [INFO]    | Connecting to Discord...
+2025-07-13 16:31:08 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-13 16:31:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 16:31:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 16:31:08 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 16:31:09 | [INFO]    | Shard 0 : Received READY
+2025-07-13 16:38:38 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-13 16:38:38 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 16:38:38 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-13 16:38:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 16:38:39 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 16:38:39 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-13 16:42:54 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:42:54 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:43:09 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:43:25 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 16:43:43 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-13 16:55:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:56:45 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 16:56:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:56:49 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:57:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:57:13 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:57:25 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:57:35 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:57:44 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 16:57:50 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:02:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:02:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:04 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:03:25 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 17:03:25 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:03:27 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:31 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:32 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:33 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:34 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:36 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:03:37 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:05:38 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:06:02 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:06:45 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:08:02 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:08:44 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:09:42 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:09:44 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:09:58 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:10:24 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:14:45 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:15:54 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:16:18 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:17:59 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:19:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:19:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:19:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:19:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:19:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:19:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 17:20:16 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:23:03 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 17:32:35 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2025-07-13 17:32:35 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 19:24:06 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 19:24:07 | [INFO]    | Shard 0 : Reconnecting after 992 ms...
+2025-07-13 19:24:08 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-13 19:24:08 | [INFO]    | Shard 0 : Reconnecting after 2143 ms...
+2025-07-13 19:24:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 19:24:11 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 19:24:11 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-13 19:24:16 | [INFO]    | Shard 0 : Received READY
+2025-07-13 19:27:24 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-07-13 19:27:24 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 19:27:24 | [INFO]    | Shard 0 : Reconnecting after 936 ms...
+2025-07-13 19:27:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 19:27:25 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 19:27:26 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-13 19:27:35 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 19:27:44 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 19:36:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 19:37:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-13 19:37:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 19:37:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 19:38:20 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_DELETE
+2025-07-13 19:38:21 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:11:12 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2025-07-13 20:11:12 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:11:12 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:11:12 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:11:50 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:22:42 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_DELETE
+2025-07-13 20:26:14 | [WARNING] | Shard 0 : 1000 - Connection closed
+2025-07-13 20:26:14 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 20:26:14 | [INFO]    | Shard 0 : Reconnecting after 970 ms...
+2025-07-13 20:26:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 20:26:15 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 20:26:16 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-13 20:26:19 | [INFO]    | Shard 0 : Received READY
+2025-07-13 20:33:30 | [INFO]    | Discordia 2.8.4
+2025-07-13 20:33:30 | [INFO]    | Connecting to Discord...
+2025-07-13 20:33:30 | [INFO]    | Authenticated as Bazil’s Utilities#9824
+2025-07-13 20:33:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 20:33:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 20:33:32 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 20:33:32 | [INFO]    | Shard 0 : Received READY
+2025-07-13 20:33:49 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:33:49 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:33:55 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:33:55 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:34:01 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:34:01 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-13 20:36:57 | [INFO]    | Discordia 2.8.4
+2025-07-13 20:36:57 | [INFO]    | Connecting to Discord...
+2025-07-13 20:36:58 | [INFO]    | Authenticated as Bazil’s Utilities#9824
+2025-07-13 20:36:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-13 20:36:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 20:36:58 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 20:36:59 | [INFO]    | Shard 0 : Received READY
+2025-07-13 23:38:58 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 23:38:58 | [INFO]    | Shard 0 : Disconnected
+2025-07-13 23:38:59 | [INFO]    | Shard 0 : Reconnecting after 925 ms...
+2025-07-13 23:38:59 | [INFO]    | Shard 0 : Reconnecting after 922 ms...
+2025-07-13 23:39:00 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-13 23:39:00 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-13 23:39:00 | [INFO]    | Shard 0 : Reconnecting after 2103 ms...
+2025-07-13 23:39:00 | [INFO]    | Shard 0 : Reconnecting after 2115 ms...
+2025-07-13 23:39:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 23:39:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-13 23:39:04 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 23:39:04 | [INFO]    | Shard 0 : Received HELLO
+2025-07-13 23:39:04 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-13 23:39:04 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-13 23:39:08 | [INFO]    | Shard 0 : Received READY
+2025-07-13 23:39:09 | [INFO]    | Shard 0 : Received READY
+2025-07-14 12:06:05 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 12:06:05 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 12:06:05 | [INFO]    | Shard 0 : Reconnecting after 1957 ms...
+2025-07-14 12:06:05 | [INFO]    | Shard 0 : Reconnecting after 2058 ms...
+2025-07-14 12:06:08 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 12:06:08 | [INFO]    | Shard 0 : Reconnecting after 3875 ms...
+2025-07-14 12:06:09 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 12:06:09 | [INFO]    | Shard 0 : Reconnecting after 3627 ms...
+2025-07-14 12:06:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 12:06:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 12:06:15 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 12:06:15 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 12:06:15 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-14 12:06:15 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-14 12:06:18 | [INFO]    | Shard 0 : Received READY
+2025-07-14 12:06:20 | [INFO]    | Shard 0 : Received READY
+2025-07-14 12:07:26 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 12:13:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 12:13:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 12:13:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 12:13:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 14:46:25 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 14:46:25 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 14:46:26 | [INFO]    | Shard 0 : Reconnecting after 1045 ms...
+2025-07-14 14:46:26 | [INFO]    | Shard 0 : Reconnecting after 930 ms...
+2025-07-14 14:46:27 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 14:46:27 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 14:46:27 | [INFO]    | Shard 0 : Reconnecting after 1861 ms...
+2025-07-14 14:46:27 | [INFO]    | Shard 0 : Reconnecting after 2091 ms...
+2025-07-14 14:46:41 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 14:46:41 | [INFO]    | Shard 0 : Reconnecting after 4061 ms...
+2025-07-14 14:46:41 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 14:46:42 | [INFO]    | Shard 0 : Reconnecting after 3848 ms...
+2025-07-14 14:46:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 14:46:45 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 14:46:46 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-14 14:46:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 14:46:46 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 14:46:46 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-14 14:46:48 | [INFO]    | Shard 0 : Received READY
+2025-07-14 14:46:49 | [INFO]    | Shard 0 : Received READY
+2025-07-14 14:54:31 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2025-07-14 14:54:31 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 14:55:19 | [INFO]    | Discordia 2.8.4
+2025-07-14 14:55:19 | [INFO]    | Connecting to Discord...
+2025-07-14 14:55:20 | [INFO]    | Authenticated as Bazil’s Utilities#9824
+2025-07-14 14:55:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 14:55:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 14:55:21 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 14:55:21 | [INFO]    | Shard 0 : Received READY
+2025-07-14 14:55:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 14:55:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 14:55:52 | [INFO]    | Discordia 2.8.4
+2025-07-14 14:55:52 | [INFO]    | Connecting to Discord...
+2025-07-14 14:55:52 | [INFO]    | Authenticated as Bazil’s Utilities#9824
+2025-07-14 14:55:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 14:55:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 14:55:53 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 14:55:53 | [INFO]    | Shard 0 : Received READY
+2025-07-14 15:05:30 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:05:30 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:09:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:09:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:11:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:11:59 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:13:16 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-14 15:13:16 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 15:13:16 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-14 15:13:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 15:13:16 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 15:13:17 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-14 15:21:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:21:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:28:47 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:28:47 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 15:46:39 | [INFO]    | Discordia 2.8.4
+2025-07-14 15:46:39 | [INFO]    | Connecting to Discord...
+2025-07-14 15:46:40 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-14 15:46:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 15:46:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 15:46:41 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 15:46:42 | [INFO]    | Shard 0 : Received READY
+2025-07-14 15:47:20 | [INFO]    | Discordia 2.8.4
+2025-07-14 15:47:20 | [INFO]    | Connecting to Discord...
+2025-07-14 15:47:20 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-14 15:47:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 15:47:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 15:47:21 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 15:47:21 | [INFO]    | Shard 0 : Received READY
+2025-07-14 15:52:18 | [INFO]    | Discordia 2.8.4
+2025-07-14 15:52:18 | [INFO]    | Connecting to Discord...
+2025-07-14 15:52:19 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-14 15:52:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 15:52:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 15:52:19 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 15:52:20 | [INFO]    | Shard 0 : Received READY
+2025-07-14 16:07:48 | [WARNING] | Shard 0 : Unhandled gateway event: INTERACTION_CREATE
+2025-07-14 16:07:54 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2025-07-14 16:07:54 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 16:08:00 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2025-07-14 16:08:00 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-14 16:10:05 | [INFO]    | Discordia 2.8.4
+2025-07-14 16:10:05 | [INFO]    | Connecting to Discord...
+2025-07-14 16:10:06 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-14 16:10:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 16:10:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:10:07 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:10:07 | [INFO]    | Shard 0 : Received READY
+2025-07-14 16:14:19 | [INFO]    | Discordia 2.8.4
+2025-07-14 16:14:19 | [INFO]    | Connecting to Discord...
+2025-07-14 16:14:19 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-14 16:14:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 16:14:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:14:20 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:14:21 | [INFO]    | Shard 0 : Received READY
+2025-07-14 16:22:21 | [INFO]    | Discordia 2.8.4
+2025-07-14 16:22:21 | [INFO]    | Connecting to Discord...
+2025-07-14 16:22:22 | [INFO]    | Authenticated as BazBump#3406
+2025-07-14 16:22:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-14 16:22:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:22:24 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:22:25 | [INFO]    | Shard 0 : Received READY
+2025-07-14 16:43:02 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 16:43:02 | [INFO]    | Shard 0 : Reconnecting after 917 ms...
+2025-07-14 16:43:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:43:03 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:43:04 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-14 16:43:21 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 16:43:21 | [INFO]    | Shard 0 : Reconnecting after 982 ms...
+2025-07-14 16:43:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:43:22 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:43:23 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-14 16:47:43 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 16:47:43 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 16:47:43 | [INFO]    | Shard 0 : Reconnecting after 1030 ms...
+2025-07-14 16:47:43 | [INFO]    | Shard 0 : Reconnecting after 1011 ms...
+2025-07-14 16:47:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:47:45 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:47:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-14 16:47:45 | [INFO]    | Shard 0 : Received HELLO
+2025-07-14 16:47:46 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-14 16:47:46 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-14 19:51:14 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 19:51:14 | [INFO]    | Shard 0 : Disconnected
+2025-07-14 19:51:15 | [INFO]    | Shard 0 : Reconnecting after 904 ms...
+2025-07-14 19:51:15 | [INFO]    | Shard 0 : Reconnecting after 902 ms...
+2025-07-14 19:51:16 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 19:51:16 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 19:51:16 | [INFO]    | Shard 0 : Reconnecting after 1965 ms...
+2025-07-14 19:51:16 | [INFO]    | Shard 0 : Reconnecting after 1941 ms...
+2025-07-14 19:51:18 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 19:51:18 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 19:51:18 | [INFO]    | Shard 0 : Reconnecting after 3859 ms...
+2025-07-14 19:51:18 | [INFO]    | Shard 0 : Reconnecting after 3943 ms...
+2025-07-14 19:51:22 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 19:51:22 | [INFO]    | Shard 0 : Reconnecting after 8598 ms...
+2025-07-14 19:51:22 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-14 19:51:22 | [INFO]    | Shard 0 : Reconnecting after 7437 ms...
+2025-07-15 18:21:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-15 18:21:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-15 18:21:38 | [INFO]    | Shard 0 : Reconnecting after 15660 ms...
+2025-07-15 18:21:38 | [INFO]    | Shard 0 : Reconnecting after 14597 ms...
+2025-07-15 18:21:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-15 18:21:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-15 18:21:55 | [INFO]    | Shard 0 : Received HELLO
+2025-07-15 18:21:55 | [INFO]    | Shard 0 : Received HELLO
+2025-07-15 18:21:55 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-15 18:21:55 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-15 18:21:59 | [INFO]    | Shard 0 : Received READY
+2025-07-15 18:22:00 | [INFO]    | Shard 0 : Received READY
+2025-07-15 18:31:49 | [INFO]    | Discordia 2.8.4
+2025-07-15 18:31:49 | [INFO]    | Connecting to Discord...
+2025-07-15 18:31:50 | [INFO]    | Authenticated as BazBump#3406
+2025-07-15 18:31:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-15 18:31:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-15 18:31:52 | [INFO]    | Shard 0 : Received HELLO
+2025-07-15 18:31:52 | [INFO]    | Shard 0 : Received READY
+2025-07-15 18:37:15 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-15 18:37:16 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:37:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:37:37 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:37:37 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:37:38 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:37:38 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:45 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:49 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:49 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:54 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:38:57 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:39:06 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-15 18:41:17 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-15 18:41:17 | [INFO]    | Shard 0 : Disconnected
+2025-07-15 18:41:17 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-15 18:41:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-15 18:41:17 | [INFO]    | Shard 0 : Received HELLO
+2025-07-15 18:41:18 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-15 21:45:39 | [INFO]    | Shard 0 : Disconnected
+2025-07-15 21:45:39 | [INFO]    | Shard 0 : Disconnected
+2025-07-15 21:45:39 | [INFO]    | Shard 0 : Reconnecting after 988 ms...
+2025-07-15 21:45:40 | [INFO]    | Shard 0 : Reconnecting after 952 ms...
+2025-07-15 21:45:40 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-15 21:45:41 | [INFO]    | Shard 0 : Reconnecting after 1920 ms...
+2025-07-15 21:45:41 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-15 21:45:41 | [INFO]    | Shard 0 : Reconnecting after 2113 ms...
+2025-07-15 21:45:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-15 21:45:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-15 21:45:44 | [INFO]    | Shard 0 : Received HELLO
+2025-07-15 21:45:44 | [INFO]    | Shard 0 : Received HELLO
+2025-07-15 21:45:45 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-15 21:45:45 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-15 21:45:48 | [INFO]    | Shard 0 : Received READY
+2025-07-15 21:45:48 | [INFO]    | Shard 0 : Received READY
+2025-07-17 16:58:26 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 16:58:26 | [INFO]    | Shard 0 : Reconnecting after 2078 ms...
+2025-07-17 16:58:28 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-17 16:58:28 | [INFO]    | Shard 0 : Reconnecting after 4327 ms...
+2025-07-17 16:58:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 16:58:33 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 16:58:34 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-17 16:58:39 | [INFO]    | Shard 0 : Received READY
+2025-07-17 17:32:44 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 17:32:44 | [INFO]    | Shard 0 : Reconnecting after 1026 ms...
+2025-07-17 17:33:06 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2025-07-17 17:33:06 | [INFO]    | Shard 0 : Reconnecting after 1985 ms...
+2025-07-17 17:33:29 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2025-07-17 17:33:29 | [INFO]    | Shard 0 : Reconnecting after 4119 ms...
+2025-07-17 17:33:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 17:33:40 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 17:33:41 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-17 17:50:33 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-17 17:50:33 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 17:50:33 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-17 17:50:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 17:50:34 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 17:50:34 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-17 18:11:21 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-17 18:11:21 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 18:11:21 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-17 18:11:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 18:11:22 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 18:11:22 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-17 18:16:07 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2025-07-17 18:16:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 18:17:41 | [INFO]    | Discordia 2.13.0
+2025-07-17 18:17:41 | [INFO]    | Connecting to Discord...
+2025-07-17 18:17:41 | [INFO]    | Authenticated as BazBump#3406
+2025-07-17 18:17:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-17 18:17:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 18:17:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 18:17:43 | [INFO]    | Shard 0 : Received READY
+2025-07-17 18:26:28 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-17 18:47:31 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-17 19:06:02 | [INFO]    | Discordia 2.13.0
+2025-07-17 19:06:02 | [INFO]    | Connecting to Discord...
+2025-07-17 19:06:03 | [INFO]    | Authenticated as BazBump#3406
+2025-07-17 19:06:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-17 19:06:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 19:06:03 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 19:06:04 | [INFO]    | Shard 0 : Received READY
+2025-07-17 19:17:00 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-17 19:19:58 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-17 19:20:23 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 19:20:46 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 19:20:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 19:20:51 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-17 19:20:57 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 19:20:57 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 19:21:45 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:45 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:45 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:45 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:49 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:49 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:49 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:21:49 | [WARNING] | Uncached TextChannel (1073893418184474648) on MESSAGE_CREATE
+2025-07-17 19:24:39 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 19:24:39 | [INFO]    | Shard 0 : Reconnecting after 1048 ms...
+2025-07-17 19:24:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 19:24:41 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 19:24:41 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-17 19:24:57 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 19:24:57 | [INFO]    | Shard 0 : Reconnecting after 1032 ms...
+2025-07-17 19:24:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 19:24:58 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 19:24:59 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-17 19:36:29 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 19:36:31 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-17 20:05:59 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-17 20:05:59 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 20:05:59 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-17 20:05:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 20:06:00 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 20:06:00 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-17 23:35:48 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 23:35:48 | [INFO]    | Shard 0 : Disconnected
+2025-07-17 23:35:49 | [INFO]    | Shard 0 : Reconnecting after 998 ms...
+2025-07-17 23:35:49 | [INFO]    | Shard 0 : Reconnecting after 1040 ms...
+2025-07-17 23:35:50 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-17 23:35:50 | [INFO]    | Shard 0 : Reconnecting after 1966 ms...
+2025-07-17 23:35:50 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-17 23:35:51 | [INFO]    | Shard 0 : Reconnecting after 1950 ms...
+2025-07-17 23:35:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 23:35:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-17 23:35:56 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 23:35:56 | [INFO]    | Shard 0 : Received HELLO
+2025-07-17 23:35:56 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-17 23:35:56 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-17 23:36:00 | [INFO]    | Shard 0 : Received READY
+2025-07-17 23:36:02 | [INFO]    | Shard 0 : Received READY
+2025-07-18 20:18:34 | [INFO]    | Shard 0 : Disconnected
+2025-07-18 20:18:34 | [INFO]    | Shard 0 : Disconnected
+2025-07-18 20:18:35 | [INFO]    | Shard 0 : Reconnecting after 2145 ms...
+2025-07-18 20:18:35 | [INFO]    | Shard 0 : Reconnecting after 2139 ms...
+2025-07-18 20:18:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-18 20:18:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-18 20:18:38 | [INFO]    | Shard 0 : Reconnecting after 4157 ms...
+2025-07-18 20:18:38 | [INFO]    | Shard 0 : Reconnecting after 3793 ms...
+2025-07-18 20:18:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-18 20:18:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-18 20:18:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-18 20:18:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-18 20:18:43 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-18 20:18:43 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-18 20:18:48 | [INFO]    | Shard 0 : Received READY
+2025-07-18 20:18:49 | [INFO]    | Shard 0 : Received READY
+2025-07-18 21:11:30 | [INFO]    | Discordia 2.13.0
+2025-07-18 21:11:30 | [INFO]    | Connecting to Discord...
+2025-07-18 21:11:30 | [INFO]    | Authenticated as BazBump Beta#6724
+2025-07-18 21:11:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-18 21:11:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-18 21:11:32 | [INFO]    | Shard 0 : Received HELLO
+2025-07-18 21:11:33 | [INFO]    | Shard 0 : Received READY
+2025-07-19 00:13:34 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 00:13:34 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 00:13:35 | [INFO]    | Shard 0 : Reconnecting after 968 ms...
+2025-07-19 00:13:35 | [INFO]    | Shard 0 : Reconnecting after 1045 ms...
+2025-07-19 00:13:36 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 00:13:36 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 00:13:36 | [INFO]    | Shard 0 : Reconnecting after 1998 ms...
+2025-07-19 00:13:36 | [INFO]    | Shard 0 : Reconnecting after 2192 ms...
+2025-07-19 00:13:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 00:13:38 | [INFO]    | Shard 0 : Reconnecting after 3861 ms...
+2025-07-19 00:13:38 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 00:13:38 | [INFO]    | Shard 0 : Reconnecting after 4156 ms...
+2025-07-19 00:13:42 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 00:13:42 | [INFO]    | Shard 0 : Reconnecting after 8020 ms...
+2025-07-19 00:13:42 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 00:13:42 | [INFO]    | Shard 0 : Reconnecting after 7497 ms...
+2025-07-19 11:38:19 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 11:38:19 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-19 11:38:19 | [INFO]    | Shard 0 : Reconnecting after 17340 ms...
+2025-07-19 11:38:19 | [INFO]    | Shard 0 : Reconnecting after 17460 ms...
+2025-07-19 11:38:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 11:38:37 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 11:38:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 11:38:37 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 11:38:37 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-19 11:38:37 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-19 11:38:41 | [INFO]    | Shard 0 : Received READY
+2025-07-19 11:38:42 | [INFO]    | Shard 0 : Received READY
+2025-07-19 12:02:22 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 12:02:22 | [INFO]    | Shard 0 : Reconnecting after 1083 ms...
+2025-07-19 12:02:22 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 12:02:22 | [INFO]    | Shard 0 : Reconnecting after 941 ms...
+2025-07-19 12:02:44 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2025-07-19 12:02:44 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2025-07-19 12:02:44 | [INFO]    | Shard 0 : Reconnecting after 2139 ms...
+2025-07-19 12:02:44 | [INFO]    | Shard 0 : Reconnecting after 2139 ms...
+2025-07-19 12:02:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 12:02:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 12:02:53 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 12:02:53 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 12:02:54 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-19 12:02:54 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-19 12:12:14 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:12:14 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:45:20 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:45:39 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:46:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:46:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:47:48 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:49:16 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:49:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:49:44 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:50:16 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:50:16 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:50:27 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:50:39 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 12:59:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 13:12:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 13:13:42 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-19 13:34:33 | [INFO]    | Discordia 2.8.4
+2025-07-19 13:34:33 | [INFO]    | Connecting to Discord...
+2025-07-19 13:34:34 | [INFO]    | Authenticated as BazBump#3406
+2025-07-19 13:34:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-19 13:34:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 13:34:36 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 13:34:36 | [INFO]    | Shard 0 : Received READY
+2025-07-19 13:54:12 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 13:54:12 | [INFO]    | Shard 0 : Reconnecting after 1014 ms...
+2025-07-19 13:54:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 13:54:13 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 13:54:14 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-19 13:54:36 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 13:54:36 | [INFO]    | Shard 0 : Reconnecting after 1082 ms...
+2025-07-19 13:54:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 13:54:38 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 13:54:39 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-19 14:00:06 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_SCHEDULED_EVENT_UPDATE
+2025-07-19 14:23:59 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 14:23:59 | [INFO]    | Shard 0 : Reconnecting after 969 ms...
+2025-07-19 14:24:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 14:24:01 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 14:24:02 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-19 14:24:04 | [INFO]    | Shard 0 : Received READY
+2025-07-19 14:24:16 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 14:24:16 | [INFO]    | Shard 0 : Reconnecting after 1014 ms...
+2025-07-19 14:24:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 14:24:17 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 14:24:17 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-19 14:24:19 | [INFO]    | Shard 0 : Received READY
+2025-07-19 14:39:59 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-19 14:39:59 | [INFO]    | Shard 0 : Disconnected
+2025-07-19 14:39:59 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-19 14:39:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-19 14:39:59 | [INFO]    | Shard 0 : Received HELLO
+2025-07-19 14:40:00 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-22 12:07:00 | [INFO]    | Discordia 2.8.4
+2025-07-22 12:07:00 | [INFO]    | Connecting to Discord...
+2025-07-22 12:07:00 | [INFO]    | Authenticated as BazBump#3406
+2025-07-22 12:07:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-22 12:07:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 12:07:02 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 12:07:02 | [INFO]    | Shard 0 : Received READY
+2025-07-22 12:12:56 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 12:12:57 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:25:43 | [INFO]    | Discordia 2.8.4
+2025-07-22 13:25:43 | [INFO]    | Connecting to Discord...
+2025-07-22 13:25:44 | [INFO]    | Authenticated as BazBump#3406
+2025-07-22 13:25:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-22 13:25:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 13:25:46 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 13:25:46 | [INFO]    | Shard 0 : Received READY
+2025-07-22 13:32:39 | [INFO]    | Shard 0 : Disconnected
+2025-07-22 13:32:39 | [INFO]    | Shard 0 : Reconnecting after 1097 ms...
+2025-07-22 13:32:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 13:32:41 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 13:32:42 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-22 13:37:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:47:00 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:57:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:57:56 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:00 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-22 13:58:01 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:02 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:05 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:06 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:08 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:12 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:13 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:14 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:15 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 13:58:16 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 17:05:09 | [INFO]    | Shard 0 : Disconnected
+2025-07-22 17:05:10 | [INFO]    | Shard 0 : Reconnecting after 1091 ms...
+2025-07-22 17:05:11 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 17:05:11 | [INFO]    | Shard 0 : Reconnecting after 1976 ms...
+2025-07-22 17:05:13 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 17:05:13 | [INFO]    | Shard 0 : Reconnecting after 3927 ms...
+2025-07-22 17:05:17 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 17:05:17 | [INFO]    | Shard 0 : Reconnecting after 7272 ms...
+2025-07-22 19:50:45 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 19:50:45 | [INFO]    | Shard 0 : Reconnecting after 16311 ms...
+2025-07-22 19:51:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 19:51:01 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 19:51:02 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-22 19:51:04 | [INFO]    | Shard 0 : Received READY
+2025-07-22 20:03:06 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2025-07-22 20:03:06 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 20:09:11 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2025-07-22 20:09:11 | [INFO]    | Shard 0 : Disconnected
+2025-07-22 20:09:11 | [INFO]    | Shard 0 : Reconnecting...
+2025-07-22 20:09:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 20:09:12 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 20:09:12 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-22 21:07:28 | [INFO]    | Discordia 2.8.4
+2025-07-22 21:07:28 | [INFO]    | Connecting to Discord...
+2025-07-22 21:07:28 | [INFO]    | Authenticated as BazBump#3406
+2025-07-22 21:07:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-07-22 21:07:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 21:07:30 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 21:07:30 | [INFO]    | Shard 0 : Received READY
+2025-07-22 21:13:00 | [INFO]    | Shard 0 : Disconnected
+2025-07-22 21:13:00 | [INFO]    | Shard 0 : Reconnecting after 1083 ms...
+2025-07-22 21:13:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 21:13:01 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 21:13:03 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-22 21:15:05 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-22 21:15:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:08 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:09 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:10 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:12 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:13 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:14 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:15 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:17 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:18 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:20 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:21 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:15:22 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-22 21:20:57 | [INFO]    | Shard 0 : Disconnected
+2025-07-22 21:20:57 | [INFO]    | Shard 0 : Reconnecting after 1052 ms...
+2025-07-22 21:20:58 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 21:20:58 | [INFO]    | Shard 0 : Reconnecting after 2065 ms...
+2025-07-22 21:21:00 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 21:21:00 | [INFO]    | Shard 0 : Reconnecting after 4246 ms...
+2025-07-22 21:21:04 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 21:21:04 | [INFO]    | Shard 0 : Reconnecting after 7382 ms...
+2025-07-22 21:21:12 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 21:21:12 | [INFO]    | Shard 0 : Reconnecting after 14591 ms...
+2025-07-22 21:21:26 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 21:21:26 | [INFO]    | Shard 0 : Reconnecting after 33128 ms...
+2025-07-22 21:21:59 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-22 21:21:59 | [INFO]    | Shard 0 : Reconnecting after 54553 ms...
+2025-07-22 21:22:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-22 21:22:54 | [INFO]    | Shard 0 : Received HELLO
+2025-07-22 21:22:55 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-22 21:23:01 | [INFO]    | Shard 0 : Received READY
+2025-07-23 00:25:28 | [INFO]    | Shard 0 : Disconnected
+2025-07-23 00:25:29 | [INFO]    | Shard 0 : Reconnecting after 14427 ms...
+2025-07-23 00:25:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-23 00:25:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-23 00:25:43 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-23 10:00:27 | [INFO]    | Shard 0 : Disconnected
+2025-07-23 10:00:27 | [INFO]    | Shard 0 : Reconnecting after 15737 ms...
+2025-07-23 10:00:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-23 10:00:45 | [INFO]    | Shard 0 : Received HELLO
+2025-07-23 10:00:45 | [INFO]    | Shard 0 : Received READY
+2025-07-23 10:49:36 | [INFO]    | Shard 0 : Disconnected
+2025-07-23 10:49:36 | [INFO]    | Shard 0 : Reconnecting after 1051 ms...
+2025-07-23 10:49:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-23 10:49:38 | [INFO]    | Shard 0 : Received HELLO
+2025-07-23 10:49:39 | [INFO]    | Shard 0 : Received RESUMED
+2025-07-23 13:54:56 | [INFO]    | Shard 0 : Disconnected
+2025-07-23 13:54:57 | [INFO]    | Shard 0 : Reconnecting after 935 ms...
+2025-07-23 13:54:58 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-23 13:54:58 | [INFO]    | Shard 0 : Reconnecting after 2009 ms...
+2025-07-23 13:55:00 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-23 13:55:00 | [INFO]    | Shard 0 : Reconnecting after 4234 ms...
+2025-07-23 13:55:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-23 13:55:05 | [INFO]    | Shard 0 : Received HELLO
+2025-07-23 13:55:05 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-23 13:55:08 | [INFO]    | Shard 0 : Received READY
+2025-07-24 07:31:11 | [INFO]    | Shard 0 : Disconnected
+2025-07-24 07:31:11 | [INFO]    | Shard 0 : Reconnecting after 3739 ms...
+2025-07-24 07:31:15 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-24 07:31:15 | [INFO]    | Shard 0 : Reconnecting after 7840 ms...
+2025-07-24 07:31:24 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2025-07-24 07:31:24 | [INFO]    | Shard 0 : Reconnecting after 17571 ms...
+2025-07-24 07:31:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-07-24 07:31:43 | [INFO]    | Shard 0 : Received HELLO
+2025-07-24 07:31:43 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2025-07-24 07:31:45 | [INFO]    | Shard 0 : Received READY
+2025-07-24 07:38:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-24 07:39:27 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-24 07:45:11 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-24 07:48:06 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_JOIN_REQUEST_UPDATE
+2025-07-24 07:48:07 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2025-07-24 07:48:09 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
